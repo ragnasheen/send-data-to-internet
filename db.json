@@ -1,14 +1,14 @@
 {
   "post": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "nino 1" },
+    { "id": 2, "title": "nino 2" },
+    { "id": 3, "title": "nino 3" }
   ],
   "comment": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "nino comment", "postId": 1 },
+    { "id": 2, "body": "nino comment", "postId": 1 }
   ],
   "profiles": {
-    "name": "typicode"
+    "name": "nino"
   }
 }
